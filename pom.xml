@@ -33,6 +33,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<!-- just one dependancie management section -->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
